@@ -2,8 +2,7 @@
 
 ### A problem solver,Entrepenaur and Software Devloper
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash2004Codes&label=Profile views&color=0e75b6&style=flat" alt="Yash2004Codes" /> </p>
-
+[![Anurag's GitHub statshttps://github-readme-stats.vercel.app/api?username=Yash2004Codes)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yash2004Codes" alt="Yash2004Codes" /></a> </p>
 
 - 🔭 I'm currently working on **contributing to AsyncAPI and Major Project (topic undecided yet)**
