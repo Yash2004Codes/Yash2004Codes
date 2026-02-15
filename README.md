@@ -1,6 +1,7 @@
 Hi 👋, I'm Yash Lalit Sharma
 
 Entrepreneur | Full-Stack Developer | DevOps Enthusiast | ML Enthusiast
+
 A passionate problem solver focused on building scalable software and exploring the intersection of AI and Infrastructure. I thrive in collaborative environments and am always looking for the next big business challenge to solve.
 
 🚀 Quick Overview
@@ -17,10 +18,6 @@ A passionate problem solver focused on building scalable software and exploring 
 
 🏛️ Historicaa.in : I have released a prototype Historicaa.in,Lets see how much far this goes.
 
-📊 Performance & Consistency
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash2004Codes&theme=dark&hide_border=true" alt="Yash's Streak" />
-</p>
 
 📈 GitHub Stats
 <p align="center">
