@@ -1,4 +1,5 @@
 Hi 👋, I'm Yash Lalit Sharma
+
 Entrepreneur | Full-Stack Developer | DevOps Enthusiast | ML Enthusiast
 A passionate problem solver focused on building scalable software and exploring the intersection of AI and Infrastructure. I thrive in collaborative environments and am always looking for the next big business challenge to solve.
 
@@ -23,11 +24,13 @@ A passionate problem solver focused on building scalable software and exploring 
 
 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yash2004Codes&show_icons=true&theme=dracula&count_private=true" alt="Yash's GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash2004Codes&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash2004Codes&show_icons=true&theme=dracula&count_private=true" width="48%" alt="Yash's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash2004Codes&show_icons=true&theme=dracula&layout=compact" width="48%" alt="Top Languages" />
 </p>
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash2004Codes&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash2004Codes&theme=dracula" width="48%" alt="Profile Summary" />
+</p>
 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/Yash-Lalit-Sharma" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
