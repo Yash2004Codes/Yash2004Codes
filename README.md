@@ -28,6 +28,7 @@ A passionate problem solver focused on building scalable software and exploring 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash2004Codes&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash2004Codes&theme=dracula" width="48%" alt="Profile Summary" />
 </p>
+
 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/Yash-Lalit-Sharma" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
